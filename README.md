@@ -4,3 +4,5 @@
 
 * Navigate Between Pages
 * `<Link>`
+* Third-Party JavaScript
+* CSS styling
